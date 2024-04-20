@@ -11,7 +11,7 @@
 #              -t my_matlab_image_name .
 
 # Specify release of MATLAB to build. (use lowercase, default is r2023a)
-ARG MATLAB_RELEASE=r2023a
+ARG MATLAB_RELEASE=r2024a
 
 # Specify the list of products to install into MATLAB, 
 ARG MATLAB_PRODUCT_LIST="MATLAB"
@@ -111,8 +111,7 @@ WORKDIR /home/${NB_USER}
 RUN python -m pip install jupyter-matlab-proxy
 
 # Install couple of additional packages
-RUN python -m pip install numpy
-RUN python -m pip install opencv-python
+RUN python -m pip install numpy opencv-python pillow
 
 # Make JupyterLab the default environment
 ENV JUPYTER_ENABLE_LAB="yes"
