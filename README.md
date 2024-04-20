@@ -18,9 +18,9 @@ The content of this codespace is as follows:
 
 Exercise | Description | Dataset | Notebook
 ---------|-------------|------|---------
-1 | Python calls MATLAB | Artic Sea Ice | [Exercise1_ArticSeaIce.ipynb](notebooks\Exercise1\Exercise1_ArticSeaIce.ipynb) 
-2 | MATLAB in Jupyter | Storm Big Data | [Exercise2_StormBigData.ipynb](notebooks\Exercise2\Exercise2_StormBigData.ipynb)
-3 | MATLAB calls Python | Weather Service | [Exercise3_WeatherService.ipynb](notebooks\Exercise3\Exercise3_WeatherService.ipynb)
+1 | Python calls MATLAB | Artic Sea Ice | [Exercise1_ArticSeaIce.ipynb](notebooks/Exercise1/Exercise1_ArticSeaIce.ipynb) 
+2 | MATLAB in Jupyter | Storm Big Data | [Exercise2_StormBigData.ipynb](notebooks/Exercise2/Exercise2_StormBigData.ipynb)
+3 | MATLAB calls Python | Weather Service | [Exercise3_WeatherService.ipynb](notebooks/Exercise3/Exercise3_WeatherService.ipynb)
 
 
 ## More resources
