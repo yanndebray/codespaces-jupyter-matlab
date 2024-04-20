@@ -40,3 +40,5 @@ Want to know more about GitHub codespaces:
 https://docs.github.com/en/codespaces/overview
 
 ![GitHub Codespaces](https://docs.github.com/assets/cb-77061/mw-1440/images/help/codespaces/codespaces-diagram.webp)
+
+Jupyter in Codespaces (original template): https://github.com/github/codespaces-jupyter
