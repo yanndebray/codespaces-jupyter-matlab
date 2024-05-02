@@ -23,6 +23,19 @@ Exercise | Description | Dataset | Notebook
 3 | MATLAB calls Python | Weather Service | [Exercise3_WeatherService.ipynb](notebooks/Exercise3/Exercise3_WeatherService.ipynb)
 
 
+## Test server demo
+
+Stand up a REST endpoint to call a MATLAB algorithm from Python through an HTTP request:
+- Spin up a test server 
+- Forward the port 9910
+- Use Postman or a Python script to call the server
+
+Once you've tested this, you can compile the code to a ctf archive and serve it up with a Production server
+
+![image](https://github.com/yanndebray/codespaces-jupyter-matlab/assets/128002745/aba70084-1610-491b-9ed3-57e107507742)
+
+![image](https://github.com/yanndebray/codespaces-jupyter-matlab/assets/128002745/86c959f0-9d56-4c98-80f2-d9b9b87a4ff7)
+
 ## More resources
 
 Are you new to MATLAB and Python and want to get more context? Check this page: 

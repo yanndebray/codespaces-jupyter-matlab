@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+    </Category>
+    <Category UUID="Deployment_Category_1157cf58-6861-4e63-97c1-984941db828c">
+        <Label UUID="Deployment_ExportedFunctionFile_1157cf58-6861-4e63-97c1-984941db828c"/>
+    </Category>
+</Info>
