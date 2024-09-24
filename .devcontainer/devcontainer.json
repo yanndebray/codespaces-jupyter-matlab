@@ -20,5 +20,12 @@
   "containerEnv": {
       "MATLAB_USERWORKDIR": "${containerWorkspaceFolder}",
       "MATLAB_USE_USERWORK": "1"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter"
+      ]
+    }
   }
 }
