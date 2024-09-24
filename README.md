@@ -1,6 +1,6 @@
 # MATLAB ♥️ Jupyter ♥️ Codespaces
 
-This repo is derived (forked) from the workshop organized by my lovely colleague Maria Elena, leveraging [MATLAB and Jupyter on GitHub Codespaces](https://github.com/MariaGavilan/codespaces-jupyter-matlab-workshop/tree/using-dockerfile).
+This repo is derived (forked) from the material of the workshop organized by my lovely colleague Maria Elena about [MATLAB & Jupyter](https://github.com/MariaGavilan/codespaces-jupyter-matlab-workshop/tree/using-dockerfile), but relying on the official MathWorks reference architecture to [Run MATLAB on GitHub Codespaces](https://github.com/mathworks-ref-arch/matlab-codespaces).
 
 ## Getting started with Codespaces
 We will be using [GitHub Codespaces](https://github.com/features/codespaces)! Everything you do here is contained within this one codespace. 
@@ -42,3 +42,10 @@ https://docs.github.com/en/codespaces/overview
 ![GitHub Codespaces](https://docs.github.com/assets/cb-77061/mw-1440/images/help/codespaces/codespaces-diagram.webp)
 
 Jupyter in Codespaces (original template): https://github.com/github/codespaces-jupyter
+
+MATLAB Codespaces:
+ - [using-devcontainer-feature](https://github.com/mathworks-ref-arch/matlab-codespaces/blob/main/.devcontainer/using-devcontainer-feature/devcontainer.json)
+ - [using-matlab-dockerfile](https://github.com/mathworks-ref-arch/matlab-codespaces/blob/main/.devcontainer/using-matlab-dockerfile/devcontainer.json)
+ - [using-matlab-with-jupyter](https://github.com/mathworks-ref-arch/matlab-codespaces/blob/main/.devcontainer/using-matlab-with-jupyter/devcontainer.json)
+ 
+More about [mathworks/devcontainer-features](https://github.com/mathworks/devcontainer-features)
