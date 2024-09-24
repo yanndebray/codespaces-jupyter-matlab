@@ -6,7 +6,7 @@
   },
   "features": {
       "ghcr.io/mathworks/devcontainer-features/matlab": {
-          "release": "r2024a",
+          "release": "r2024b",
           "products": "MATLAB Curve_Fitting_Toolbox Deep_Learning_Toolbox Image_Processing_Toolbox Statistics_and_Machine_Learning_Toolbox MATLAB_Compiler MATLAB_Compiler_SDK",
           "installJupyterMatlabProxy": true,
           "installMatlabEngineForPython": true
