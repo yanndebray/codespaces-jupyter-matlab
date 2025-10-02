@@ -15,7 +15,7 @@
     "ghcr.io/mathworks/devcontainer-features/matlab": {
       // For more options, See: https://github.com/mathworks/devcontainer-features/tree/main/src/matlab
       "release": "r2025b",
-      "products": "MATLAB Curve_Fitting_Toolbox Deep_Learning_Toolbox Image_Processing_Toolbox Statistics_and_Machine_Learning_Toolbox MATLAB_Compiler MATLAB_Compiler_SDK",
+      "products": "MATLAB Simulink Signal_Processing_Toolbox Simscape Simscape_Electrical Simscape_Fluids Simscape_Multibody Simulink_Design_Optimization Statistics_and_Machine_Learning_Toolbox System_Identification_Toolbox MATLAB_Compiler Simulink_Compiler MATLAB_Compiler_SDK",
       "installMatlabProxy": "true",
       "startInDesktop": "true",
       "installJupyterMatlabProxy": true,
